@@ -1,4 +1,4 @@
-public static class ArraySelectorSolution
+    public static class ArraySelectorSolution
 {
     public static void Run()
     {
